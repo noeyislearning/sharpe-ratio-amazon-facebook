@@ -1,1 +1,1 @@
-# Sharpe Ration Amazon and Facebook
+# Sharpe Ratio Amazon and Facebook
